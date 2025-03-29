@@ -1,0 +1,13 @@
+<!DOTYPE html>
+<html>
+  <head>
+    Belajar Dasar HTML
+  </head>
+  <body>
+    <h1>Element Penting HTML</h1>
+    adapaun elemen penting dibagi atas : TEKS, LIST, TABEL, gambar dan Link
+    <h2> TESK</h2>
+    Element TEKS terdiri dari, <b>teks Tebal b dan strong</b>, <i>Teks miring yaitu i dan em </i>, <u>Teks garis bawah </u>
+  
+  </body>
+</html>
